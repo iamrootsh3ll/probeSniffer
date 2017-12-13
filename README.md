@@ -17,7 +17,7 @@
   * Logging to SQLite database file<br>
   * Settable nickname for mac addresses<br>
   * Options to filter output by mac address<br>
-  * Capturing 'boradcast' probe requests (without ssid)<br>
+  * Capturing 'broadcast' probe requests (without ssid)<br>
 
 # requirements:
   * Kali Linux / Raspbian with root privileges<br>
